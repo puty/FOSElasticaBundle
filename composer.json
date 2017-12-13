@@ -31,10 +31,10 @@
         "phpunit/phpunit": "^4.8 || ^5.0",
         "propel/propel1": "^1.7",
         "knplabs/knp-components": "^1.2",
-        "symfony/expression-language" : "^2.8|^3.4",
-        "symfony/twig-bundle": "^2.8|^3.4",
-        "symfony/serializer": "^2.8|^3.4",
-        "symfony/yaml": "^2.8|^3.4",
+        "symfony/expression-language" : "^2.8|^3.3",
+        "symfony/twig-bundle": "^2.8|^3.3",
+        "symfony/serializer": "^2.8|^3.3",
+        "symfony/yaml": "^2.8|^3.3",
         "friendsofphp/php-cs-fixer": "^2.2"
     },
     "autoload": {
